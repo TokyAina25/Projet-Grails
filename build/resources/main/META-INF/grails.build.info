@@ -1,0 +1,6 @@
+#Mon, 08 Mar 2021 19:27:55 +0300
+
+info.app.version=0.1
+info.app.name=Lecoincoin
+grails.env=development
+info.app.grailsVersion=3.3.8
